@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>DreamSkin</AssemblyName>
+    <RootNamespace>DreamSkin</RootNamespace>
+    <ApplicationTitle>Dream Skin</ApplicationTitle>
+    <ApplicationIcon>DreamSkin.ico</ApplicationIcon>
+  </PropertyGroup>
+</Project>
