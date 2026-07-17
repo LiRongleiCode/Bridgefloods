@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  Thanks to <a href="https://pay.ldxp.cn/shop/1WG3HDDW"><strong>passion8.cc</strong></a> for sponsoring this project.<br>
+  Thanks to <a href="https://pay.ldxp.cn/shop/1WG3HDDW"><strong>XiaoQiaoHongshui.cc</strong></a> for sponsoring this project.<br>
   Full-power AI gateway: official models, no silent downgrades, no wrapper shells.<br>
   One-line setup for Codex / Claude Code / Grok.
 </p>
