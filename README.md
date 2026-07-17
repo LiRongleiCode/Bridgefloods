@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  感谢 <a href="https://pay.ldxp.cn/shop/1WG3HDDW"><strong>XiaoQiaoHongshui.cc</strong></a> 赞助本项目。<br>
+  感谢 <a href="https://pay.ldxp.cn/shop/1WG3HDDW"><strong>XiaoQiaoHongShui</strong></a> 赞助本项目。<br>
   满血 AI 中转：官方模型直连，无降智、无套壳；一行配置接入 Codex / Claude Code / Grok。
 </p>
 
